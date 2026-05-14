@@ -1,0 +1,11 @@
+{
+  "snapshot_entries": 67,
+  "fabricated_entries": 2,
+  "delta_entries": 2,
+  "delta_entry_ids": [
+    "stripe_node-DELTA-001",
+    "stripe_node-DELTA-002"
+  ],
+  "classification_results": [],
+  "delta_error": "400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages"
+}
